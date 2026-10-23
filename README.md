@@ -39,7 +39,7 @@
 Aqui estão alguns dos meus principais projetos focados em arquitetura de microsserviços, mensageria e boas práticas de desenvolvimento:
 
 * **[Pagamentos Event Driven](https://github.com/mateusv1s/event-driven-architecture-estudos)**
-  * *Descrição:* fazendo.
+  * *Descrição:* Projeto focado em aprender EDA e AMAZON SQS.
   * *Tecnologias:* Java, Spring Boot, Amazon SQS, PostgreSQL, Docker.
 
 ---
