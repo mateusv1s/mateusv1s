@@ -1,6 +1,6 @@
 # Mateus
 
-Software Engineer & Backend Developer
+*Software Engineer & Backend Developer*
 
 ---
 
